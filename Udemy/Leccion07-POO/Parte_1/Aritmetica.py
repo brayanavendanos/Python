@@ -16,7 +16,7 @@ class Aritmetica:
         return self.operando_a * self.operando_b
     
     def dividir(self):
-        return self.operando_a / self.operando_b
+        return self.operando_a / self.operando_b 
     
 aritmetica_1 = Aritmetica(3, 2) 
 print(f'Operaciones entre {aritmetica_1.operando_a} y {aritmetica_1.operando_b}')

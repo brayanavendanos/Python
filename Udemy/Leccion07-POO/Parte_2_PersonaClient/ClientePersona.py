@@ -12,3 +12,4 @@ print(empleado_1)
 
 empleado_3 = Empleado('Juanchis', 19, 12000)
 print(empleado_3)
+

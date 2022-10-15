@@ -48,3 +48,4 @@ class FiguraGeometrica:
         # Regresamos verdadero si el valor está entre 0 y 10 
         # si no, regresamos falso
         return True if 0 < valor < 10 else False
+    
