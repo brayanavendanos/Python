@@ -19,7 +19,7 @@ menu = """
 2 - Pesos argentinos
 3 - Pesos mexicanos
 ----------------------------------------------------------------
-"""
+
 
 opcion = int(input(menu))
 

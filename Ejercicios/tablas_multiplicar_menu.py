@@ -1,6 +1,7 @@
 def run():
     menu = """
     [[Tablas de multiplicar 🔢]]
+
 <<Que tabla de multiplicar desea consultar: >>
     
     Tabla del número: """
