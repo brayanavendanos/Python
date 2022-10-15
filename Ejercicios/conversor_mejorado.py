@@ -14,15 +14,12 @@ def conversor(tipo_pesos, valor_dolar):
 menu = """
 ----------------------------------------------------------------
 [[Bienvenido al conversor de monedas 🪙]]
-
 <<Seleccione que conversión desea realizar>>
-
 1 - Pesos colombianos
 2 - Pesos argentinos
 3 - Pesos mexicanos
-
 ----------------------------------------------------------------
-"""
+
 
 opcion = int(input(menu))
 
@@ -35,5 +32,3 @@ elif opcion == 3:
 else:
     
     print("Ingresa una opción valida")
-
-

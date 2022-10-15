@@ -1,5 +1,3 @@
-
-
 def run():
     menu = """
     [[Tablas de multiplicar 🔢]]

@@ -3,13 +3,10 @@
 menu = """
 ----------------------------------------------------------------
 [[Bienvenido al conversor de monedas 🪙]]
-
 <<Seleccione que conversión desea realizar>>
-
 1 - Pesos colombianos
 2 - Pesos argentinos
 3 - Pesos mexicanos
-
 ----------------------------------------------------------------
 """
 
@@ -47,7 +44,6 @@ elif opcion == 3:
     print("Tienes $" + dolares + " dólares")
     
 else:
-    
-    print("Ingresa una opción valida")
 
+    print("Ingresa una opción valida")
 
