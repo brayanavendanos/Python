@@ -23,6 +23,9 @@ print(nombres[0:2]) #sin incluir el indice 2, imprime el 0 y el 1
 #ir del inicio de la lista al indice (sin excluirlo)
 print(nombres[:3])
 
+# imprimir de atras hacia adelante
+print(nombres[::-1])
+
 #desde el indice indicado hasta el final de la lista
 print(nombres[1:]) #no imprime el indice 0 imprime hasta el 4
 
