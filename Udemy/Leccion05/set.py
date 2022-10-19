@@ -37,6 +37,3 @@ print(planetas)
 #eliminar por completo un set
 del planetas
 print(planetas)
-
-
-
