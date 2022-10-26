@@ -1,7 +1,7 @@
 def increment(x):
     return x + 1
 
-increment_l = lambda x : x ** 2
+increment_l = lambda x : x +1
 
 result_l = increment_l(2)
 print(result_l)
