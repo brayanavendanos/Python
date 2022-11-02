@@ -19,3 +19,5 @@ result2 = high_ord_func_v2(6, lambda x : x **2) # Se pueden añadir los lambda d
 print(result2)
 result2 = high_ord_func_v2(8, lambda x : x * 2)
 print(result2)
+
+
