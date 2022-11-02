@@ -21,3 +21,5 @@ result2 = high_ord_func_v2(8, lambda x : x * 2)
 print(result2)
 
 
+
+
