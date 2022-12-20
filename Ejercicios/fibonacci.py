@@ -15,7 +15,8 @@ def fibonacci(n):
     fibonacci_cache[n] = value
     return value
 
-for n in range(1,101):
+for n in a
+    a =  input("Ingrese el número")
     print(n, ':', fibonacci(n))
     
     
