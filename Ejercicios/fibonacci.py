@@ -15,9 +15,3 @@ def fibonacci(n):
     fibonacci_cache[n] = value
     return value
 
-for n in a
-    a =  input("Ingrese el número")
-    print(n, ':', fibonacci(n))
-    
-    
-
