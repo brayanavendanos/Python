@@ -1,7 +1,4 @@
-from mundo_pc.dispositivo_entrada import DispositivoEntrada
-
-
-class Raton(DispositivoEntrada):
+class Raton():
 
     contador_ratones = 0
 
